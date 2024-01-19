@@ -62,7 +62,7 @@
                                     </div>
                                     <form class="user">
                                         <div class="form-group">
-                                            <label for="nilai_inggris">Nilai IPS</label>
+                                            <label for="nilai_inggris">Nilai Baasa Inggris</label>
                                             <input type="number" name="nilai_inggris" class="form-control form-control" required="" id="nilai_inggris" placeholder="Masukkan Nilai Bahasa Inggris">
                                         </div>
                                         <form class="user">
